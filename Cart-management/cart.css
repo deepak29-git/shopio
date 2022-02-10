@@ -1,0 +1,28 @@
+.cart-container{
+    display:flex;
+    justify-content: center;
+    gap: 3rem;
+    
+}
+.price-detail-container{
+    width: 25rem;
+    padding:2rem;
+    border-radius: 5px;
+
+}
+
+.actual-price{
+    display:flex;
+    justify-content: space-between;    
+}
+
+
+.placeholder-btn{
+    display:flex;
+    justify-content: center;
+    background-color:var(--primary-color);
+    color:var(--white-color);
+    padding:0.8rem 0;
+    border: none;
+    cursor:pointer;
+}

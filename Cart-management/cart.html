@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+      rel="stylesheet"
+      href="https://create-ui.netlify.app/css/components.css"
+    />
+    <script
+      src="https://kit.fontawesome.com/1caf5c28e9.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="/Cart-management/cart.css">
+    <title>Cart-management</title>
+</head>
+<body>
+  <header class="ecom-header mt-1 plr-1">
+    <nav class="ecom-nav">
+      <h2 class="ecom-title">Shop<span class="ui-text">io</span></h2>
+      <div class="input-parent">
+        <i class="search fas fa-search"></i>
+        <input class="ecom-input" type="text" placeholder="Search" />
+      </div>
+      <div class="ecom-group">
+        <button class="btn btn-primary">Login</button>
+        <div class="badge">
+          <i class="heart far fa-heart"></i>
+          <div class="number">0</div>
+        </div>
+        <div class="badge">
+          <i class="shopping-cart fas fa-shopping-cart"></i>
+          <div class="number">0</div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <div>
+    <h3 class="center-text my-1">MY CART(2)</h3>
+  </div>
+  <main class="cart-container">
+    <div class="card horizontal">
+      <img class="" src="/assets/mens-jacket.webp" alt="mens-jacket">
+      <div class="card-body horizontal-body">
+    <div class="card-title">Men Premium Jacket</div>
+    <div class="price">
+     ₹2000
+     <span class="price-before"> ₹3999</span>
+     <div class="line"></div>
+     <div class="discount">
+       50% off
+     </div>
+    </div>
+       <div class="btn-group">
+         <button class="cart-btn">Add to Cart</button>
+         <button class="wishlist-btn">Remove from Wishlist</button>
+       </div>
+     </div>
+   </div>
+    <div class="price-detail-container shadow">
+        <h4>PRICE DETAILS</h4>
+        <hr class="my-half">
+        <div class="price-description">
+          <div class="actual-price">
+            <p class="item-price">Price(2 Items)</p>
+            <p>₹4999</p>
+          </div>
+          <div class="actual-price">
+            <p class="item-price">Price(2 Items)</p>
+            <p>₹4999</p>
+          </div>
+          <div class="my-half">
+            <p class="item-price">Price(2 Items)</p>
+            <p>₹4999</p>
+          </div>
+          <hr class="my-half">
+          <div class="actual-price">
+            <h4>TOTAL AMOUNT</h4>
+            <h4>₹4999</h4>
+          </div>
+          <hr class="my-half">
+          <p>You will save ₹4999 on this order</p>
+        </div>
+        <div class="btn-group">
+          <button class="placeholder-btn mt-1">PLACE ORDER</button>
+        </div>
+    </div>
+  </main>
+
+</body>
+</html>
