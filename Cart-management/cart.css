@@ -1,0 +1,33 @@
+.cart-container{
+    display:flex;
+    justify-content: center;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+.price-detail-container{
+    width: 25rem;
+    padding:2rem;
+    border-radius: 5px;
+
+}
+
+.space-between{
+    display:flex;
+    justify-content: space-between;    
+}
+
+.placeholder-btn{
+    display:flex;
+    justify-content: center;
+    background-color:var(--primary-color);
+    color:var(--white-color);
+    padding:0.8rem 0;
+    border: none;
+    cursor:pointer;
+}
+@media only screen and (max-width:31.25em){
+    .horizontal{
+        margin-bottom: 6rem;
+
+    }
+}
