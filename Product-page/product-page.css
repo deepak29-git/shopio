@@ -26,19 +26,6 @@
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
-/* center using flex */
-
-.flex {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-/* center text */
-.center {
-  display: flex;
-  justify-content: center;
-}
 
 /* button style */
 
