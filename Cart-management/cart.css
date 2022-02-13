@@ -17,13 +17,27 @@
     justify-content: center;
     background-color:var(--primary-color);
     color:var(--white-color);
-    padding:0.8rem 0;
+    padding:16px 0;
     border: none;
     cursor:pointer;
 }
+
+a{
+    color:var(--black-color)
+ }
+
 @media only screen and (max-width:31.25em){
     .horizontal{
         margin-bottom: 6rem;
+    }
+    .btn-group{
+        display:flex;
+        width: 500px;
 
     }
+    .cart-btn{
+       padding: 0.5rem 1rem;
+       
+    }
+   
 }

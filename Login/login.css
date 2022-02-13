@@ -44,3 +44,11 @@
 .forgot-pass {
   margin-left: auto;
 }
+
+a{
+  color:var(--black-color)
+}
+
+.forget-content{
+  color:var(--primary-color);
+}
