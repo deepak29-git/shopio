@@ -11,10 +11,6 @@
 
 }
 
-.space-between{
-    display:flex;
-    justify-content: space-between;    
-}
 
 .placeholder-btn{
     display:flex;
