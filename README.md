@@ -1,6 +1,6 @@
 # [shopio | Ecommerce App](https://shopio-store.netlify.app/)
 
-Shopio is an Ecommerce application which provides the many pages like Home,My Product,My Cart, Wishlist and Login/Signup page.
+Shopio is an fully responsive Ecommerce application which provides the many pages like Home,My Product,My Cart, Wishlist and Login/Signup page.
 
 
 ## Whats's included?
