@@ -67,3 +67,12 @@ Signup page shows the sign up where user can create a new account.
 
 
 **[Live Link](https://shopio-store.netlify.app/signup-page/signup)**
+
+### Project Demo:
+
+
+
+Uploading shopio.mp4…
+
+
+**[Project Live Link](https://shopio-store.netlify.app/)**
