@@ -3,7 +3,16 @@
 Shopio is an Ecommerce application which provides the many pages like Home,My Product,My Cart, Wishlist and Login/Signup page.
 
 
-## Home Page:
+## Whats's included?
+
+- Home Page
+- Product Page
+- Wishlist Page
+- Cart Page
+- Login Page
+- Signup Page
+
+### Home Page:
 
 In the Home page shows the different category of product where user can choose the specific category. This page also show the baner and deals of the day where user see the trending deal according by sale.You can check a live link for home page below.
 
@@ -12,7 +21,7 @@ In the Home page shows the different category of product where user can choose t
 
 **[Live Link](https://shopio-store.netlify.app/)**
 
-## Product Page:
+### Product Page:
 
 Product page shows all the product with the selected category where user can filter a product by using price,category and ratings.
 
@@ -22,7 +31,7 @@ Product page shows all the product with the selected category where user can fil
 **[Live Link](https://shopio-store.netlify.app/product-page/product.page)**
 
 
-## Wishlist Page:
+### Wishlist Page:
 
 Wishlist page shows all the item which user mark as wishlist or user like a specific product.
 
@@ -40,7 +49,7 @@ Cart page shows that product where user added a product in the cart.
 
 **[Live Link](https://shopio-store.netlify.app/cart-management/cart)**
 
-## Login Page:
+### Login Page:
 
 Login page shows login details where user can login their account in the app.
 
@@ -50,7 +59,7 @@ Login page shows login details where user can login their account in the app.
 
 **[Live Link](https://shopio-store.netlify.app/login/login)**
 
-## Sign up Page:
+### Sign up Page:
 
 Signup page shows the sign up where user can create a new account.
 
