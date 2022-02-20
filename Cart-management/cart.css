@@ -11,6 +11,11 @@
 
 }
 
+.remove-cart{
+    background-color:var(--light-grey);
+    border-radius: 0;
+
+}
 
 .placeholder-btn{
     display:flex;
