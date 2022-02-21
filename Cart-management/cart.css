@@ -14,17 +14,10 @@
 .remove-cart{
     background-color:var(--light-grey);
     border-radius: 0;
-
 }
-
-.placeholder-btn{
-    display:flex;
-    justify-content: center;
-    background-color:var(--primary-color);
-    color:var(--white-color);
-    padding:16px 0;
-    border: none;
-    cursor:pointer;
+.remove-cart:hover{
+    background-color:var(--grey-color);
+   
 }
 
 a{

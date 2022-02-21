@@ -43,6 +43,9 @@
   transform: scale(1.1);
 }
 
+.btn{
+  border-radius: 0px;
+}
 
 a{
   color:var(--black-color)
