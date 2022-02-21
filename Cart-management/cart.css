@@ -4,12 +4,19 @@
     gap: 3rem;
     flex-wrap: wrap;
 }
+
+.price-detail-main{
+    display:flex;
+    justify-content: center;
+}
+
 .price-detail-container{
-    width: 25rem;
+    width: 28rem;
     padding:2rem;
     border-radius: 5px;
-
 }
+
+
 
 .remove-cart{
     background-color:var(--light-grey);
