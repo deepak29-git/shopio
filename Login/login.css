@@ -45,10 +45,10 @@
   margin-left: auto;
 }
 
-a{
-  color:var(--black-color)
+a {
+  color: var(--black-color);
 }
 
-.forget-content{
-  color:var(--primary-color);
+.forget-content {
+  color: var(--primary-color);
 }
